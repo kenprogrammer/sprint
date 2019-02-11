@@ -24,7 +24,7 @@
 
 <!-- Sidebar Menu -->
 <ul class="sidebar-menu">
-<li class="header">LARABUGZ</li>
+<li class="header">SPRINT</li>
 <!-- Optionally, you can add icons to the links -->
 <li class="active"><a href="/home"><i class="fa fa-home"></i> <span>Home</span></a></li>
 <li class="treeview">

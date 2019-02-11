@@ -7,7 +7,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>{{ config('app.name', 'LaraBugz') }}</title>
+  <title>{{ config('app.name', 'Sprint') }}</title>
   <!-- jQuery 2.2.3 -->
   <script src="{{ asset('lte/plugins/jQuery/jquery-2.2.3.min.js') }}"></script>
   <!-- Bootstrap 3.3.6 -->
@@ -59,9 +59,9 @@ desired effect
     <!-- Logo -->
     <a href="/home" class="logo">
       <!-- mini logo for sidebar mini 50x50 pixels -->
-      <span class="logo-mini"><b>L</b>B</span>
+      <span class="logo-mini"><b>S</b></span>
       <!-- logo for regular state and mobile devices -->
-      <span class="logo-lg"><b>Lara</b>Bugz</span>
+      <span class="logo-lg"><b>S</b>print</span>
     </a>
 
     <!-- Header Navbar -->
